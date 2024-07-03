@@ -1,3 +1,6 @@
+Estos con los cambios que aplicamos al code
+![image](https://github.com/VallejoAndres/Hotels_Postgres/assets/170279887/c3ba653d-0aba-4084-bdd8-08b5d90c3fdc)
+Y a continuacion ejecutamos la aplicacion
 Como se puede ver aqui en la primera imagen estos son los datos en la tabla
 ![image](https://github.com/VallejoAndres/Hotels_Postgres/assets/170279887/8fbd317e-c858-4d1c-9887-bc498c52c2c9)
 Luego cree 2 hoteles mas en pgadmin 
